@@ -16,6 +16,7 @@ public class Main {
 		}else {
 			System.out.println("El numero ingresado es impar");
 			System.out.println("El doble del numero es: " + (numero * 2));
+			
 		}
 		scanner.close();
 	}
