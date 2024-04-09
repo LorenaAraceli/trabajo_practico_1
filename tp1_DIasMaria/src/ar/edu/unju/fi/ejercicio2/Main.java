@@ -13,7 +13,6 @@ public class Main {
 	    String nro = "3882910320";
 		double cos = 0.5;
 		
-	
 		System.out.println("Nombre de Pais: " + nompais);
 		System.out.println("Edad Persona: " + edadP + " Años");
 		System.out.println("Altura Edificios: " + alturaE + "m");
