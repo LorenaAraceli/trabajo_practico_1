@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("Ingrese un numero entero: ");
 		int numero = scanner.nextInt();
 		
+		
 		if (numero % 2 == 0) {
 			System.out.println("El numero ingresado es par");
 			System.out.println("El triple del numero es: " + (numero * 3));
